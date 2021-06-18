@@ -1,0 +1,2 @@
+Sitemap: http://jhtest.xyz/sitemap.xml
+Sitemap: https://jhtest.xyz/sitemap.xml
